@@ -8,10 +8,17 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Declare the variables and read the order of the matrix n.
+
+2.Take the coefficients of the linear equations as: Do for k=1 to n. ...
+
+3.Do for k=1 to n-1. Do for i=k+1 to nDo for j=k+1 to n+1. ...
+
+4.Compute x[n]=a[n][n+1]/a[n][n]
+
+5.Do for k=n-1 to 1. sum=0. ...
+
+6.Display the result x[k]
 
 ## Program:
 ```
